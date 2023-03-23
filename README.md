@@ -1,5 +1,5 @@
 LINK FOR WEB APP :
-[CLICK HERE](https://insuranceclaim-380404.el.r.appspot.com)
+[CLICK HERE](https://ins-claim.el.r.appspot.com/)
 
 INSURANCE CLAIM PREDICTION This repository contains code to predict the insurance claim based on the given parameters. With the help of this project a company can detect the insurance claims and can decide weather to give insurance or not.
 

@@ -11,4 +11,3 @@ MACHINE LEARNING MODELS Linear Regression Lasso Regression Decision Tree Regress
 
 REQUIREMENTS Python 3.5+ Sklearn Pandas Matplotlib Seaborn
 
-CONTRIBUTOR Sandesh Shejwal
